@@ -234,7 +234,7 @@ curl -X GET http://localhost:8000/api/crypto-data/some_task_id/
 
 1. **Requesting Data**
 
-    ![Requesting Data](images/requesting_data.png)
+    ![Requesting Data](images/request_sent.png)
 
 2. **Response with Task ID**
 
