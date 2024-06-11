@@ -238,12 +238,16 @@ curl -X GET http://localhost:8000/api/crypto-data/some_task_id/
 
 2. **Response with Task ID**
 
-    ![Response with Task ID](images/response_with_task_id.png)
+    ![Response with Task ID](images/Job_status.png)
 
-3. **Fetching Result**
+3. **Job details**
 
-    ![Fetching Result](images/fetching_result.png)
+    ![Response with Task ID](images/Job_details.png)
 
-4. **Task Result**
+4. **Jobs in admin pannel**
 
-    ![Task Result](images/task_result.png)
+    ![Fetching Result](images/Jobs_pannel.png)
+
+5. **Task Result**
+
+    ![Task Result](images/Job_output_data.png)
