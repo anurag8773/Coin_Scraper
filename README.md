@@ -1,4 +1,4 @@
-#Coin Scraper
+# Coin Scraper
 
 ### Step 1: Set up the Django project
 
